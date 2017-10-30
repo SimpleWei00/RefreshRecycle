@@ -4,7 +4,6 @@ import android.content.Context;
 
 /**
  * type必须大于0
- * Created by 魏学军 on 2016/12/10.
  */
 public abstract class DataHolder {
 
